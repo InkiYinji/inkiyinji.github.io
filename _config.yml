@@ -8,7 +8,7 @@ highlighter: pygments
 paginate: 20 # pagination based on number of posts
 paginate_path: "page/:num"
 
-这里是网站主页配置，管理一些基本信息
+#这里是网站主页配置，管理一些基本信息
 categories_path : categories.html
 tags_path : tags.html
 
