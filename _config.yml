@@ -1,35 +1,34 @@
-# This is the default format.
-# For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:title
-# https://help.github.com/articles/migrating-your-pages-site-from-maruku
-markdown: redcarpet
+# 基础格式文件
+# 更多参见: http://jekyllrb.com/docs/permalinks/
+permalink: /:title                                 # 文章的永久链接格式
 
-highlighter: pygments
-paginate: 20 # pagination based on number of posts
-paginate_path: "page/:num"
+markdown: redcarpet                                # 代码风格
+highlighter: pygments                              # 代码风格
+paginate: 20                                       # 每一个页帖子的显示数量
+paginate_path: "page/:num"                         # 显示格式
 
 #这里是网站主页配置，管理一些基本信息
 categories_path : categories.html
 tags_path : tags.html
 
-#BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
-BASE_PATH : http://goileolee.github.io
+BASE_PATH : http://inkiyinji.github.io
 
 description : 好好学习，天天向上
 title: Inki                                        # 网站标题
 logo: /assets/images/avatar_homepage.gif           # 主页图标
 keywords: 因吉, 学习                               # 网页关键词，用','分隔
 cover: /assets/images/cover_background.jpg         # 背景图像
+language:                                          # 语言设置，常用的有zh-Hans、zh-CN
+timezone: Asia/Shanghai                            # 时区
 
-
-author:
-  name: Inki
-  maxim: Stay hungry,Stay foolish
-  role: Jekyll Theme
-  email: goileolee@foxmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
-  googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
-  uno-dbyll: /assets/images/avatar_homepage.gif
+author: Inki
+name: Inki
+maxim: Stay hungry,Stay foolish
+role: Jekyll Theme
+email: goileolee@foxmail.com
+github: goileolee
+twitter: goileolee
+facebook: goileolee
+googleplus: +goileolee
+bio: "Hi, 我是goileolee"
+uno-dbyll: /assets/images/avatar_homepage.gif
