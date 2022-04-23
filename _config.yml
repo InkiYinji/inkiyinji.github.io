@@ -8,23 +8,21 @@ highlighter: pygments
 paginate: 20 # pagination based on number of posts
 paginate_path: "page/:num"
 
-# These paths are to the main pages Jekyll-Bootstrap ships with.
-# Some JB helpers refer to these paths; change them here if needed.
-#
+这里是网站主页配置，管理一些基本信息
 categories_path : categories.html
 tags_path : tags.html
 
 #BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
 BASE_PATH : http://goileolee.github.io
 
-description : 深沉的意志，恢宏的想象和炽热的情感
-title : Goileo Lee
-logo : /assets/images/avatar.jpg
+description : 好好学习，天天向上
+title : Inki
+logo : /assets/images/avatar_homepage.jpg
 #cover : /assets/images/background-cover.jpg
 
 
 author:
-  name: Goileo Lee
+  name: Inki
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
   email: goileolee@foxmail.com
@@ -33,4 +31,4 @@ author:
   facebook: goileolee
   googleplus: +goileolee
   bio: "Hi, 我是goileolee"
-  uno-dbyll: /assets/images/avatar.jpg
+  uno-dbyll: /assets/images/avatar_homepage.jpg
