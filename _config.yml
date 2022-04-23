@@ -17,7 +17,7 @@ BASE_PATH : http://goileolee.github.io
 
 description : 好好学习，天天向上
 title : Inki
-logo : /assets/images/avatar_homepage.jpg
+logo : /assets/images/avatar_homepage.gif
 #cover : /assets/images/background-cover.jpg
 
 
@@ -31,4 +31,4 @@ author:
   facebook: goileolee
   googleplus: +goileolee
   bio: "Hi, 我是goileolee"
-  uno-dbyll: /assets/images/avatar_homepage.jpg
+  uno-dbyll: /assets/images/avatar_homepage.gif
