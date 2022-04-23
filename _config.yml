@@ -22,13 +22,14 @@ language:                                          # 语言设置，常用的有
 timezone: Asia/Shanghai                            # 时区
 
 author: Inki
-name: Inki
-maxim: Stay hungry,Stay foolish
-role: Jekyll Theme
-email: inki.yinji@qq.com
-github: https://github.com/InkiYinji/
-twitter: goileolee
-facebook: goileolee
-googleplus: +goileolee
-bio: "你好，我是因吉"
-uno-dbyll: /assets/images/avatar_homepage.gif
+  name: Inki
+  maxim: Stay hungry,Stay foolish
+  role: Jekyll Theme
+  email: inki.yinji@qq.com
+  github: InkiYinji
+  csdn: weixin_30436101
+  twitter: goileolee
+  facebook: goileolee
+  googleplus: +goileolee
+  bio: "你好，我是因吉"
+  uno-dbyll: /assets/images/avatar_homepage.gif
