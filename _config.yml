@@ -16,9 +16,10 @@ tags_path : tags.html
 BASE_PATH : http://goileolee.github.io
 
 description : 好好学习，天天向上
-title : Inki
-logo : /assets/images/avatar_homepage.gif
-#cover : /assets/images/background-cover.jpg
+title: Inki                                        # 网站标题
+logo: /assets/images/avatar_homepage.gif           # 主页图标
+keywords: 因吉, 学习                               # 网页关键词，用','分隔
+cover: /assets/images/cover_background.jpg         # 背景图像
 
 
 author:
