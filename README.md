@@ -1,5 +1,4 @@
-# Vno-jekyll, 一个jekyll blog的主题
-# Vno-jekyll, just another jekyll theme
+# 因吉的小网站
 
 
 fork form yanshinian/vno-jekyll
