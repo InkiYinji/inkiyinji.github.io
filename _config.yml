@@ -14,7 +14,7 @@ tags_path : tags.html
 BASE_PATH : http://inkiyinji.github.io
 
 description : 好好学习，天天向上
-title: Inki                                        # 网站标题
+title: 因吉                                        # 网站标题
 logo: /assets/images/avatar_homepage.gif           # 主页图标
 keywords: 因吉, 学习                               # 网页关键词，用','分隔
 cover: /assets/images/cover_background.jpg         # 背景图像
@@ -25,10 +25,10 @@ author: Inki
 name: Inki
 maxim: Stay hungry,Stay foolish
 role: Jekyll Theme
-email: goileolee@foxmail.com
-github: goileolee
+email: inki.yinji@qq.com
+github: https://github.com/InkiYinji/
 twitter: goileolee
 facebook: goileolee
 googleplus: +goileolee
-bio: "Hi, 我是goileolee"
+bio: "你好，我是因吉"
 uno-dbyll: /assets/images/avatar_homepage.gif
