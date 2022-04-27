@@ -19,17 +19,16 @@ logo: /assets/images/avatar_homepage.gif           # 主页图标
 keywords: 因吉, 学习                               # 网页关键词，用','分隔
 cover: /assets/images/cover_background.jpg         # 背景图像
 language:                                          # 语言设置，常用的有zh-Hans、zh-CN
-timezone: Asia/Shanghai                            # 时区
 
 author: Inki
   name: Inki
   maxim: Guluuu
-  role: Jekyll Theme
+  role: Student
   email: inki.yinji@qq.com
   github: InkiYinji
   csdn: weixin_44575152
   twitter: YinjiInki
-  facebook: goileolee
-  googleplus: +goileolee
+  facebook: YinjiInki
+  googleplus: YinjiInki
   bio: "你好，我是因吉"
   uno-dbyll: /assets/images/avatar_homepage.gif
